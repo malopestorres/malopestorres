@@ -12,9 +12,10 @@
 
 ## 🛠️ Open Source & Featured Projects
 
-Here are a few projects I actively develop and maintain:
+Here are a few tools and engines I actively develop and maintain:
 
 - 🧩 **[Brickslider](https://github.com/sixsrc/brickslider)** — A TypeScript-first, Tailwind-first carousel engine with modular plugins for web stories and accessibility.
+- 🤖 **[ia-code-review](https://github.com/malopestorres/ia-code-review)** — An AI-powered automated code review engine & CLI for React ecosystems, performing automated security, architecture, and code quality checks.
 - ⚡ **[Markupshift](https://github.com/malopestorres/markupshift)** — An online web tool that converts raw HTML into clean, downloadable React JSX or TSX components.
 
 ---
