@@ -19,12 +19,13 @@ Here are a few projects I actively develop and maintain:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malopestorres&show_icons=true&theme=radial&hide_border=true&include_all_commits=true" alt="Marcus Torres GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malopestorres&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="170"/>
-</p>
+![Marcus Torres GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=malopestorres&show_icons=true&theme=radial&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malopestorres&layout=compact&theme=radial&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=malopestorres&theme=radial&hide_border=true)
 
 ---
 
